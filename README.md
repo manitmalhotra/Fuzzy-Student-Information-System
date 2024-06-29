@@ -1,3 +1,3 @@
-# Fuzzy-Student-Information-System-
+# Fuzzy-Student-Information-System
 
 This is a Fuzzy Student Information System which is build using Java Swing, MySQL, Fuzzy Logic and Python.This file contains all the files and can be run using the jar file present in the dist folder. The dist folder also contains student_info.sql file which needs to be imported in MySQL for the working of this student information system. Update the text of pythonInterpretor variable in the predict.java file in src folder according to the location of Python Interpretor in your system. This requires Numpy and scikit-learn libraries for executing the fuzzy logic.
