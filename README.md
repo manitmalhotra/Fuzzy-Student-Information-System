@@ -1,0 +1,1 @@
+This is a Student Informtion System which is build using Java Swing and MySQL.This file contains all the files and can be run using the jar file present in the dist folder.The dist folder also contains student_info.sql file which needs to be imported in MySQL for the working of this student information system.
